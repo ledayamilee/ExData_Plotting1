@@ -1,3 +1,2 @@
-dev.copy(png, file="plot4.png", height=480, width=480)
-dev.off()
+git add "plot1.png"
 
